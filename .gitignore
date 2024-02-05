@@ -1,0 +1,5 @@
+# Ignore build directories
+/target
+
+# Ignore rustfmt preferences
+rustfmt.toml
