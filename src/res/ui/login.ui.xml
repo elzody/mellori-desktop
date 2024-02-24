@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8">
+
+<interface domain="mellori-desktop">
+  <object id="window" class="GtkWindow">
+    <property name="title">Mellori Desktop</property>
+
+    <child>
+      <object id="button" class="GtkButton">
+        <property name="label">Some button I made</property>
+      </object>
+    </child>
+  </object>
+</interface>
